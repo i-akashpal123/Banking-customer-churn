@@ -26,3 +26,4 @@ Visualization in Power BI: The dataset was utilized in Power BI to visualize the
 bank_customer_churn_dataset.csv: The dataset used for analysis.
 churn_prediction_ann.ipynb: Jupyter Notebook containing the code for EDA and ANN modeling.
 churn_visualization.pbix: Power BI file for visualizing churn rates.
+https://github-production-user-asset-6210df.s3.amazonaws.com/42810444/304842896-90c7a65a-bf94-4c39-9c6f-4ee9bce2bb45.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240829%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240829T152543Z&X-Amz-Expires=300&X-Amz-Signature=480394b8788075006db630db7da410ea487c8bdd696ee5995a90b5b6e969e19a&X-Amz-SignedHeaders=host&actor_id=93071272&key_id=0&repo_id=757564551
